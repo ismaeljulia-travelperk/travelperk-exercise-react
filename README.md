@@ -1,3 +1,7 @@
-# travelperk-exercise-react
+# Recipes app
 
-Recipes application in React
+Reciples application in React, enjoy
+
+## Demo video
+
+https://streamable.com/hvla28
